@@ -67,3 +67,5 @@ Array
 
 )
 </pre>
+
+<strong>P.S.</strong> Sorry for english
