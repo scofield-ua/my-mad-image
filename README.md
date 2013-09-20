@@ -68,4 +68,4 @@ Array
 )
 </pre>
 
-<strong>P.S.</strong> Sorry for english
+<strong>P.S.</strong> Sorry for my english
